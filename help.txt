@@ -8,5 +8,5 @@ list                                   Lister le contenu du repertoire courant
 mkd /CHEMIN_DU_NOUVEAU_REPERTOIRE/NOM  Créer un nouveau répertoire
 rmd MON_DOSSIER                        Supprimer le répertoire
 rnfr NEW_NOM ANCIEN_NOM                Renomme un répertoire/fichier 
-stor NOM_FICHIER                       Copie le fichier (répertoire courant client) dans le répertoire client (serveur)
+stor NOM_FICHIER                       Copie le fichier (client) dans le répertoire client (serveur)
 pwd                                    Affiche la position dans l'arborescence 
